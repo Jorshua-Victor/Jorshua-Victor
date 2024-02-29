@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jorshua-Victor
-- 👀 Estou interessado na aréa de frontend.
-- 🌱 Atualmente estou aprendendo sobre python, mas tenho conhecimento em html e css.
+- 👀 Estou interessado na aréa de desenvolvimento.
+- 🌱 Atualmente estou aprendendo sobre python e Java, mas tenho conhecimento em html e css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
